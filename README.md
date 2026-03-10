@@ -11,7 +11,10 @@ This project demonstrates **clean UI design, responsive layouts, CSS Flexbox/Gri
 
 ---
 
+## 🚀 Live Demo
+https://lamy-project.netlify.app/
 
+---
 
 # 🚀 Features
 
